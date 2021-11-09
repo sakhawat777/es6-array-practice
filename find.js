@@ -1,4 +1,4 @@
-// This method returns the value of the first element in an array that pass the test in a testing function.
+//  find( ) This method returns the value of the first element in an array that pass the test in a testing function.
 
 const numbers = [20, 25, 30, 32, 40];
 const num2 = numbers.find((num) => num > 20);

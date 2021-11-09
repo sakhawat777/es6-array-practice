@@ -1,4 +1,4 @@
-//  This method creates a new array with the results of calling a provided function on every element in this array.
+// map( ) This method creates a new array with the results of calling a provided function on every element in this array.
 const numbers = [20, 25, 30, 32, 40];
 const num2 = numbers.map((num) => num > 20);
 console.log(numbers); // [ 20, 25, 30, 32, 40 ]

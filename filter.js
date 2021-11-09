@@ -1,4 +1,4 @@
-//  This method creates a new array with only elements that passes the condition inside the provided function.
+// filter( ) This method creates a new array with only elements that passes the condition inside the provided function.
 const numbers = [20, 25, 30, 32, 40];
 const num2 = numbers.filter((num) => num > 20);
 console.log(numbers); // [ 20, 25, 30, 32, 40 ]
